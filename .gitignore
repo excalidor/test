@@ -21,3 +21,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+# IDEA config files
+.idea/
+.settings/
+
+## Maven Target folder
+target/
+#
+## Test Reports
+test-output/
+
+# Java Docs
+docs/
+
+*.iml
